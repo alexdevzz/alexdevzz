@@ -7,4 +7,7 @@
 - 😄 I consider myself a hard-working, diligent, dedicated and funny person, qualities that I use in everything I do ...
 - ⚡ Fun fact: When I'm not coding, I'm trying to perfect the art of brewing the best cup of coffee. ☕️ Any recomendations? ...
 
+<!--
+Description
+>
 
